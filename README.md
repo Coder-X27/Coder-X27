@@ -10,9 +10,10 @@
 
 ![logo](https://github.com/Coder-X27/Coder-X27/blob/master/CoderxImage.png)
 
-# *🔗Connect with me * 
-[![facebook](https://img.shields.io/badge/facebook-019?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Karansh99)
-
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karan-sharma-23574a1b9/)
-
-[![instagram](https://img.shields.io/badge/instagram-900ab9?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/its_karanshx/)
+# *🔗Connect with me* 
+    
+[<img align="left" src="/instagram.png" width='50' height='50'>](https://www.instagram.com/its_karanshx/)
+<img align="left" src="/facebook.png" width='50' height='50'>
+<img align="left" src="/linkdin.png" width='50' height='50'>
+<img align="left" src="/mail.png" width='50' height='50'>
+<img align="left" src="/snapchat.png" width='50' height='50'>
