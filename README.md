@@ -8,7 +8,7 @@
     - ⚡ Fun fact: I left mostly things Half-unfinished and after some times I have to Complete the remaining from zero.😂😂
 
 [<img src="/Coding image.gif" height='300' width='250'>]
-[<img align="left" src="/CoderxImage.png" width='500' height='300'>]
+[<img align="left" src="/CoderxImage.png" width='500' height='200'>]
 
 
 
