@@ -8,7 +8,7 @@
     ⚡ Fun fact: I left mostly things in half way and after some times i have to do these things again from zero.😂😂
 
 [<img src="/Coding image.gif" height='300' width='300'>]
-[<img align="left" src="/CoderxImage.png" width='600' height='300'>]
+[<img align="left" src="/CoderxImage.png" width='400' height='300'>]
 
 # *🔗Connect with me* 
     
