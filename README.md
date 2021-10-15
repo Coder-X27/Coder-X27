@@ -2,7 +2,7 @@
     - 🔭 I’m currently working on Web Development and Compititive Coding 👨‍💻👨‍💻
     - 🌱 I’m currently learning Python 🐍
     - 🤔 I’m looking for help in Machine Learning
-    - 🙌 I wanted to be a self-made man for that I am working as hard 🎓
+    - 🙌 I wanted to be a self-made man for that I am working hard 🎓
     - 💬 Ask me about C, C++, Python 😊
     - 😄 Pronouns: he/him 😂😂
     - ⚡ Fun fact: I left mostly things Half-unfinished and after some times I have to Complete the remaining from zero.😂😂
