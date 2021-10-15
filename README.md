@@ -16,6 +16,8 @@
 [<img align="left" src="/facebook.png" width='40' height='40'>](https://www.facebook.com/Karansh99)
 [<img align="left" src="/linkdin.png" width='40' height='40'>](https://www.linkedin.com/in/karan-sharma-23574a1b9/)
 [<img align="left" src="/snapchat.png" width='40' height='40'>](https://accounts.snapchat.com/accounts/snapcodes)
+<br/>
+<br/>
 
 # *Languages and tools*
 
