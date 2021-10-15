@@ -1,4 +1,3 @@
-<img align="right" src="/img/CoderxImage.png" height='100' width='200'>
 
 # *Hi, I'm Karan! 👋*
     - 🔭 I’m currently working on Web Development and Compititive Coding 👨‍💻👨‍💻
@@ -38,6 +37,7 @@
 <br/>
 
 ## *Connect with me*🔗
+<img align="right" src="/img/CoderxImage.png" height='100' width='200'>
 
 [<img align="left" src="/img/instagram.png" width='40' height='40'>](https://www.instagram.com/its_karanshx/)
 [<img align="left" src="/img/facebook.png" width='40' height='40'>](https://www.facebook.com/Karansh99)
