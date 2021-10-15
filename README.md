@@ -7,8 +7,8 @@
     - 😄 Pronouns: he/him 😂😂
     - ⚡ Fun fact: I left mostly things Half-unfinished and after some times I have to Complete the remaining from zero.😂😂
 
-[<img src="/Coding image.gif" height='300' width='250'>]
-[<img align="left" src="/CoderxImage.png" width='500' height='300'>]
+<img src="/Coding image.gif" height='300' width='250'>
+<img align="left" src="/CoderxImage.png" width='500' height='300'>
 
 # *Connect with me*🔗
     
@@ -19,9 +19,9 @@
 
 # *Languages and tools*
 
-[<img align="left" src="/C-Sharp-01.png" width='30' height='30'>]
-[<img align="left" src="/CSS-3-01.png" width='30' height='30'>]
-[<img align="left" src="/HTML-5-01.png" width='30' height='30'>]
-[<img align="left" src="/JavaScript-01.png" width='30' height='30'>]
-[<img align="left" src="/Node-JS-01.png" width='30' height='30'>]
-[<img align="left" src="/React-01.png" width='30' height='30'>]
+<img align="left" src="/C-Sharp-01.png" width='30' height='30'>
+<img align="left" src="/CSS-3-01.png" width='30' height='30'>
+<img align="left" src="/HTML-5-01.png" width='30' height='30'>
+<img align="left" src="/JavaScript-01.png" width='30' height='30'>
+<img align="left" src="/Node-JS-01.png" width='30' height='30'>
+<img align="left" src="/React-01.png" width='30' height='30'>
