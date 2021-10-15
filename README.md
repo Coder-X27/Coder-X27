@@ -19,9 +19,9 @@
 
 # *Languages and tools*
 
-[<img align="left" src="/C-Sharp-01.png" width='30' height='30'>]
-[<img align="left" src="/CSS-3-01.png" width='30' height='30'>]
-[<img align="left" src="/HTML-5-01.png" width='30' height='30'>]
-[<img align="left" src="/JavaScript-01.png" width='30' height='30'>]
-[<img align="left" src="/Node-JS-01.png" width='30' height='30'>]
-[<img align="left" src="/React-01.png" width='30' height='30'>]
+<img align="left" src="/C-Sharp-01.png" width='35' height='35'>
+<img align="left" src="/CSS-3-01.png" width='35' height='35'>
+<img align="left" src="/HTML-5-01.png" width='35' height='35'>
+<img align="left" src="/JavaScript-01.png" width='35' height='35'>
+<img align="left" src="/Node-JS-01.png" width='35' height='35'>
+<img align="left" src="/React-01.png" width='35' height='35'>
