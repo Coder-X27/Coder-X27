@@ -21,6 +21,7 @@
 <img align="left" src="/img/c.png" width='40' height='40'>
 <img align="left" src="/img/cppp.png" width='40' height='40'>
 <img align="left" src="/img/python.png" width='40' height='40'>
+<br/>
 <img align="left" src="/img/bootstrap.png" width='40' height='40'>
 
 <br/>
