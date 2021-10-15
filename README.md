@@ -12,7 +12,7 @@
 
 # *🔗Connect with me* 
     
-[<img align="left" src="/instagram.png" width='50' height='50'>](https://www.instagram.com/its_karanshx/)
-[<img align="left" src="/facebook.png" width='50' height='50'>](https://www.facebook.com/Karansh99)
-[<img align="left" src="/linkdin.png" width='50' height='50'>](https://www.linkedin.com/in/karan-sharma-23574a1b9/)
-[<img align="left" src="/snapchat.png" width='50' height='50'>](https://accounts.snapchat.com/accounts/snapcodes)
+[<img align="left" src="/instagram.png" width='30' height='30'>](https://www.instagram.com/its_karanshx/)
+[<img align="left" src="/facebook.png" width='30' height='30'>](https://www.facebook.com/Karansh99)
+[<img align="left" src="/linkdin.png" width='30' height='30'>](https://www.linkedin.com/in/karan-sharma-23574a1b9/)
+[<img align="left" src="/snapchat.png" width='30' height='30'>](https://accounts.snapchat.com/accounts/snapcodes)
