@@ -45,5 +45,4 @@
 [<img align="left" src="/img/instagram.png" width='40' height='40'>](https://www.instagram.com/its_karanshx/)
 [<img align="left" src="/img/facebook.png" width='40' height='40'>](https://www.facebook.com/Karansh99)
 [<img align="left" src="/img/linkdin.png" width='40' height='40'>](https://www.linkedin.com/in/karan-sharma-23574a1b9/)
-[<img align="left" src="/img/snapchat.png" width='40' height='40'>](https://accounts.snapchat.com/accounts/snapcodes)
 
