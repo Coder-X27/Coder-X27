@@ -46,4 +46,8 @@
 [<img align="left" src="/img/linkdin.png" width='40' height='40'>](https://www.linkedin.com/in/karan-sharma-23574a1b9/)
 [<img align="left" src="/img/hrank.jpg" width='40' height='40'>](https://www.hackerrank.com/Coder_X27/)
 [<img align="left" src="/img/stack-overflow.png" width='40' height='40'>](https://stackoverflow.com/users/17051088/karan-sharma)
+<<<<<<< HEAD
 [<img align="left" src="/img/codechef.png" width='40' height='40'>](https://www.codechef.com/users/karanshx99)
+=======
+[<img align="left" src="/img/codechef.png" width='40' height='40'>](https://www.codechef.com/users/karanshx99)
+>>>>>>> 2b0bb4d1e498e3e27c636e00ed51aa3fecc7ca31
