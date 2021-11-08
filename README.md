@@ -45,5 +45,3 @@
 [<img align="left" src="/img/facebook.png" width='40' height='40'>](https://www.facebook.com/Karansh99)
 [<img align="left" src="/img/linkedin.png" width='40' height='40'>](https://www.linkedin.com/in/karan-sharma-23574a1b9/)
 [<img align="left" src="/img/hrank.jpg" width='40' height='40'>](https://www.hackerrank.com/Coder_X27/)
-[<img align="left" src="/img/stack-overflow.png" width='40' height='40'>](https://stackoverflow.com/users/17051088/karan-sharma)
-[<img align="left" src="/img/codechef_logo.png" width='40' height='40'>](https://www.codechef.com/users/karanshx99)
