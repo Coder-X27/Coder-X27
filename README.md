@@ -1,7 +1,7 @@
 
 # *Hi, I'm Karan! 👋*
-    - 🔭 I’m currently working on Web Development and Compititive Coding 👨‍💻👨‍💻
-    - 🌱 I’m currently learning Python 🐍
+    - 🔭 I’m currently working on Web Development and Python 👨‍💻👨‍💻
+    - 🌱 I’m currently learning ML �
     - 🤔 I’m looking for help in Machine Learning    
     - 🙌 I wanted to be a self-made man for that I am working hard 🎓
     - 💬 Ask me about C, C++, Python 😊
