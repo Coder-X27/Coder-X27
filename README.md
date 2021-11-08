@@ -1,7 +1,6 @@
-
 # *Hi, I'm Karan! 👋*
     - 🔭 I’m currently working on Web Development and Python 👨‍💻👨‍💻
-    - 🌱 I’m currently learning ML �
+    - 🌱 I’m currently learning ML .
     - 🤔 I’m looking for help in Machine Learning    
     - 🙌 I wanted to be a self-made man for that I am working hard 🎓
     - 💬 Ask me about C, C++, Python 😊
@@ -12,27 +11,27 @@
 # *My Skills*
 
 ### Languages and Framework
-<img align="left" src="/img/HTML-5-01.png" width='40' height='40'>
-<img align="left" src="/img/CSS-3-01.png" width='40' height='40'>
-<img align="left" src="/img/JavaScript-01.png" width='40' height='40'>
-<img align="left" src="/img/Node-JS-01.png" width='40' height='40'>
-<img align="left" src="/img/React-01.png" width='40' height='40'>
-<img align="left" src="/img/mongo.png" width='40' height='40'>
-<img align="left" src="/img/c.png" width='40' height='40'>
-<img align="left" src="/img/cppp.png" width='40' height='40'>
-<img align="left" src="/img/python.png" width='40' height='40'>
+[<img align="left" src="/img/HTML-5-01.png" width='40' height='40'>](https://devdocs.io/html/)
+[<img align="left" src="/img/CSS-3-01.png" width='40' height='40'>](https://devdocs.io/css/)
+[<img align="left" src="/img/JavaScript-01.png" width='40' height='40'>](https://devdocs.io/javascript)
+[<img align="left" src="/img/Node-JS-01.png" width='40' height='40'>](https://nodejs.org/en/)
+[<img align="left" src="/img/React-01.png" width='40' height='40'>](https://reactjs.org/)
+[<img align="left" src="/img/mongo.png" width='40' height='40'>](https://www.mongodb.com/)
+[<img align="left" src="/img/c.png" width='40' height='40'>](https://devdocs.io/c)
+[<img align="left" src="/img/cppp.png" width='40' height='40'>](https://devdocs.io/cpp)
+[<img align="left" src="/img/python.png" width='40' height='40'>](https://www.python.org/)
 <br/>
-<img align="left" src="/img/bootstrap.png" width='40' height='40'>
+[<img align="left" src="/img/bootstrap.png" width='40' height='40'>](https://getbootstrap.com/)
 
 <br/>
 <br/>
 
 ### Tools
 
-<img align="left" src="/img/git.png" width='40' height='40'>
-<img align="left" src="/img/github.png" width='40' height='40'>
-<img align="left" src="/img/atom.png" width='40' height='40'>
-<img align="left" src="/img/vs.jpg" width='40' height='40'>
+[<img align="left" src="/img/git.png" width='40' height='40'>](https://git-scm.com/)
+[<img align="left" src="/img/github.png" width='40' height='40'>](https://github.com/)
+[<img align="left" src="/img/atom.png" width='40' height='40'>](https://atom.io/)
+[<img align="left" src="/img/vs.jpg" width='40' height='40'>](https://code.visualstudio.com/)
 
 <br/>
 <br/>
@@ -45,4 +44,6 @@
 [<img align="left" src="/img/instagram.png" width='40' height='40'>](https://www.instagram.com/its_karanshx/)
 [<img align="left" src="/img/facebook.png" width='40' height='40'>](https://www.facebook.com/Karansh99)
 [<img align="left" src="/img/linkdin.png" width='40' height='40'>](https://www.linkedin.com/in/karan-sharma-23574a1b9/)
-
+[<img align="left" src="/img/hrank.jpg" width='40' height='40'>](https://www.hackerrank.com/Coder_X27/)
+[<img align="left" src="/img/stack-overflow.png" width='40' height='40'>](https://stackoverflow.com/users/17051088/karan-sharma)
+[<img align="left" src="/img/codechef.png" width='40' height='40'>](https://www.codechef.com/users/karanshx99)
