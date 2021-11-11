@@ -48,4 +48,4 @@
 
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app.api?username=Coder-X27&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Coder-X27&theme=radical)
