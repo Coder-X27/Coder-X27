@@ -18,8 +18,8 @@
 [<img align="left" src="/img/React-01.png" width='40' height='40'>](https://reactjs.org/)
 [<img align="left" src="/img/mongo.png" width='40' height='40'>](https://www.mongodb.com/)
 [<img align="left" src="/img/c.png" width='40' height='40'>](https://devdocs.io/c)
-[<img align="left" src="/img/cppp.png" width='40' height='40'>](https://devdocs.io/cpp)
-[<img align="left" src="/img/python.png" width='40' height='40'>](https://www.python.org/)
+[<img align="left" src="/img/cppp.png" width='45' height='40'>](https://devdocs.io/cpp)
+[<img align="left" src="/img/python.png" width='45' height='40'>](https://www.python.org/)
 <br/>
 [<img align="left" src="/img/bootstrap.png" width='40' height='40'>](https://getbootstrap.com/)
 
