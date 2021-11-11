@@ -46,6 +46,11 @@
 [<img align="left" src="/img/linkedin.png" width='40' height='40'>](https://www.linkedin.com/in/karan-sharma-23574a1b9/)
 [<img align="left" src="/img/hrank.jpg" width='40' height='40'>](https://www.hackerrank.com/Coder_X27/)
 
+<br/>
+<br/>
+<br/>
+<br/>
 
+## *My Stats*🔗
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Coder-X27&theme=radical)
