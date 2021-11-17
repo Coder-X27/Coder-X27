@@ -54,3 +54,6 @@
 ## *My Stats*🔗
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Coder-X27&theme=radical)
+<a href="https://github.com/Coder-X27">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Coder-X27&hide=css,typescript&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="" />
+</a>
