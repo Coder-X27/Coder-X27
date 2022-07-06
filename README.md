@@ -1,9 +1,8 @@
 # *Hi, I'm Karan! 👋*
-    - 🔭 I’m currently working on Web Development and Python 👨‍💻👨‍💻
-    - 🌱 I’m currently learning ML .
-    - 🤔 I’m looking for help in Machine Learning    
-    - 🙌 I wanted to be a self-made man for that I am working hard 🎓
-    - 💬 Ask me about C, C++, Python 😊
+    - 🔭 I’m currently working on MERN Stack 👨‍💻👨‍💻
+    - 🌱 I’m learning ML.
+    - 🤔 I’m looking for help in Machine Learning🎓
+    - 💬 Ask me about C, C++, Python, MERN Stack Development 😊
     - 😄 Pronouns: he/him 😂😂
     - ⚡ Fun fact: I left mostly things Half-unfinished and after some times I have to Complete the remaining from zero.😂😂
 <img align="right" src="/img/Coding image.gif" height='300' width='250'>
