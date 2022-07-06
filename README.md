@@ -40,9 +40,9 @@
 
 ## *My Stats*🔗
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Coder-X27&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Coder-X27&theme=buefy)
 <a href="https://github.com/Coder-X27">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Coder-X27&hide=css,typescript&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Coder-X27&hide=css,typescript&title_color=f20528&text_color=000000&icon_color=6aa6f8&bg_color=ffffff" alt="" />
 </a>
 <br/>
 <br/>
