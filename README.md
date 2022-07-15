@@ -6,6 +6,10 @@
     - 😄 Pronouns: he/him 😂😂
     - ⚡ Fun fact: I left mostly things Half-unfinished and after some times I have to Complete the remaining from zero.😂😂
 <img align="right" src="/img/Coding image.gif" height='300' width='250'>
+<hr/>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Coder-X27" alt="coderx" /></a> </p>
+<hr/>
+
 
 # *My Skills*
 
@@ -30,9 +34,6 @@
 [<img align="left" src="/img/github.png" width='40' height='40'>](https://github.com/)
 [<img align="left" src="/img/atom.png" width='40' height='40'>](https://atom.io/)
 [<img align="left" src="/img/vs.jpg" width='40' height='40'>](https://code.visualstudio.com/)
-
-
-
 <br/>
 <br/>
 <!-- <br/>
@@ -40,11 +41,13 @@
 
 ## *My Stats*🔗
 
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Coder-X27&theme=buefy)
 <a href="https://github.com/Coder-X27">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Coder-X27&hide=css,typescript&title_color=f20528&text_color=000000&icon_color=6aa6f8&bg_color=ffffff" alt="" />
 </a>
-<br/>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Coder-X27&theme=radical&hide_border=true)](https://git.io/streak-stats)  
+[![riti's github activity graph](https://activity-graph.herokuapp.com/graph?username=Coder-X27&theme=react-dark)](https://github.com/Coder-X27/github-readme-activity-graph)
 <br/>
  <br/>
 <br/> 
@@ -56,3 +59,8 @@
 [<img align="left" src="/img/facebook.png" width='40' height='40'>](https://www.facebook.com/Karansh99)
 [<img align="left" src="/img/linkedin.png" width='40' height='40'>](https://www.linkedin.com/in/karan-sharma-23574a1b9/)
 [<img align="left" src="/img/hrank.jpg" width='40' height='40'>](https://www.hackerrank.com/Coder_X27/)
+
+<br/>
+<br/>
+
+
