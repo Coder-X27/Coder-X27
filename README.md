@@ -5,7 +5,7 @@
     - 💬 Ask me about C, C++, Python, MERN Stack Development 😊
     - 😄 Pronouns: he/him 😂😂
     - ⚡ Fun fact: I left mostly things Half-unfinished and after some times I have to Complete the remaining from zero.😂😂
-<img align="right" src="/img/Coding image.gif" height='300' width='250'>
+<img align="right" src="/img/Coding image.gif" height='200' width='150'>
 <hr/>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Coder-X27" alt="coderx" /></a> </p>
 <hr/>
@@ -49,8 +49,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Coder-X27&theme=radical&hide_border=true)](https://git.io/streak-stats)  
 [![riti's github activity graph](https://activity-graph.herokuapp.com/graph?username=Coder-X27&theme=react-dark)](https://github.com/Coder-X27/github-readme-activity-graph)
 <br/>
- <br/>
-<br/> 
+
 
 ## *Connect with me*🔗
 <!-- <img align="right" src="/img/CoderxImage.png" height='100' width='200'> -->
@@ -59,8 +58,5 @@
 [<img align="left" src="/img/facebook.png" width='40' height='40'>](https://www.facebook.com/Karansh99)
 [<img align="left" src="/img/linkedin.png" width='40' height='40'>](https://www.linkedin.com/in/karan-sharma-23574a1b9/)
 [<img align="left" src="/img/hrank.jpg" width='40' height='40'>](https://www.hackerrank.com/Coder_X27/)
-
-<br/>
-<br/>
 
 
