@@ -47,8 +47,6 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Coder-X27&hide=css,typescript&title_color=f20528&text_color=000000&icon_color=6aa6f8&bg_color=ffffff" alt="" />
 </a>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Coder-X27&theme=radical&hide_border=true)](https://git.io/streak-stats)  
-[![riti's github activity graph](https://activity-graph.herokuapp.com/graph?username=Coder-X27&theme=react-dark)](https://github.com/Coder-X27/github-readme-activity-graph)
-<br/>
 
 
 ## *Connect with me*🔗
