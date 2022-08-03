@@ -4,7 +4,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=coder-x27" alt="coder-x27" /></a> </p>
 <hr/>
 
-<img align="right" src="/img/Coding image.gif" height='200' width='150'>
+<img align="right" src="/img/Coding image.gif" height='300' width='250'>
 
 - 🌱 I’m currently learning **Machine Learning**
 
@@ -96,10 +96,13 @@
             height="40" /> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img
             src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40"
             height="40" /> </a> </p>
+           
+<br/>
+<br/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=coder-x27&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&locale=en&layout=compact" alt="coder-x27" /></p>
+<p>&nbsp;<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=coder-x27&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&locale=en" alt="coder-x27" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=coder-x27&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&locale=en" alt="coder-x27" /></p>
+<p><img align="left" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=coder-x27&theme=dark" alt="coder-x27" /></p>
+<p><img align="left" width="400" height="300" src="https://github-readme-stats.vercel.app/api/top-langs?username=coder-x27&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&locale=en&layout=compact" alt="coder-x27" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=coder-x27&theme=dark" alt="coder-x27" /></p>
 
