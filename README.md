@@ -97,12 +97,13 @@
             src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40"
             height="40" /> </a> </p>
            
-<br/>
-<br/>
+## *My Stats*🔗
 
-<p>&nbsp;<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=coder-x27&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&locale=en" alt="coder-x27" /></p>
 
-<p><img align="left" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=coder-x27&theme=dark" alt="coder-x27" /></p>
-<p><img align="left" width="400" height="300" src="https://github-readme-stats.vercel.app/api/top-langs?username=coder-x27&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&locale=en&layout=compact" alt="coder-x27" /></p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Coder-X27&theme=buefy)
+<a href="https://github.com/Coder-X27">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Coder-X27&hide=css,typescript&title_color=f20528&text_color=000000&icon_color=6aa6f8&bg_color=ffffff" alt="" />
+</a>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Coder-X27&theme=github-light&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 
