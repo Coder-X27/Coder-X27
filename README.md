@@ -104,6 +104,5 @@
 <a href="https://github.com/Coder-X27">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Coder-X27&hide=css,typescript&title_color=f20528&text_color=000000&icon_color=6aa6f8&bg_color=ffffff" alt="" />
 </a>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Coder-X27&theme=github-light&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Coder-X27&theme=monokai)](https://git.io/streak-stats)
 
