@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Karan !</h1>
-<h3 align="center">A passionate Python coder and a MERN Stack Developer</h3>
+<h3 align="center">Python, ML, MERN Stack Development and Competitive Programming.</h3>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=coder-x27" alt="coder-x27" /></a> </p>
 <hr/>
