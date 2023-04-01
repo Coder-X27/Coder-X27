@@ -15,6 +15,7 @@
 
 - 📫 How to reach me **visit my portfolio Website <a href="https://karansharma-portfoliosite.netlify.app/" target="_blank">here</a>**
 
+- 📫 **Resume <a href="https://drive.google.com/file/d/1AtEwjDtWlsxLfTI1T9J7SkEhAGH4Z34D/view?usp=sharing" target="_blank">here</a>**
 - ⚡ Fun fact: I left mostly things Half-unfinished and after some times <br/>I have to Complete the remaining from zero.😂😂
 
 <h3 align="left">Connect with me:</h3>
@@ -24,6 +25,7 @@
 <a href="https://instagram.com/its_karanshx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its_karanshx" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/karanshx99" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="karanshx99" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/Coder_X27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="coder-x27" height="30" width="40" /></a>
+            <a href="https://auth.geeksforgeeks.org/user/karanshx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="karanshx" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/karanshx/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="karanshx/" height="30" width="40" /></a>
 </p>
 
