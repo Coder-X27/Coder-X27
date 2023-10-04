@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **visit my portfolio Website <a href="https://karansharma-portfoliosite.netlify.app/" target="_blank">here</a>**
 
-- 📫 **Resume <a href="https://drive.google.com/file/d/1AtEwjDtWlsxLfTI1T9J7SkEhAGH4Z34D/view?usp=sharing" target="_blank">here</a>**
+- 📫 **Resume <a href="[https://drive.google.com/file/d/1AtEwjDtWlsxLfTI1T9J7SkEhAGH4Z34D/view?usp=sharing](https://drive.google.com/file/d/1rmj3aXhWLH7quNC1K22mfCGGPJFmqdEd/view?usp=sharing)" target="_blank">here</a>**
 - ⚡ Fun fact: I left mostly things Half-unfinished and after some times <br/>I have to Complete the remaining from zero.😂😂
 
 <h3 align="left">Connect with me:</h3>
